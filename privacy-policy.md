@@ -128,9 +128,9 @@ updated and locked.
 
 ## 11. Advertising and purchases
 
-The app has no advertising and no in-app purchases. If we ever add ads, purchases or any feature that collects data,
-we will update this policy, the store's data safety information and, where required, ask for your consent **before**
-that version is released.
+The app currently has no advertising and no in-app purchases. If a future version changes how the app handles data,
+we will update this policy and the store's data safety information, and, where required, ask for your consent
+**before** that version is released.
 
 ## 12. Changes to this policy
 
