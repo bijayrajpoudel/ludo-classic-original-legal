@@ -1,6 +1,6 @@
 # Privacy Policy — Ludo Original Classic
 
-_Effective date: 19 October 2026 · Applies to app version 1.2.3 and later_
+_Effective date: 25 October 2026 · Applies to app version 1.2.15 and later_
 
 **In short:** Ludo Original Classic is an offline board game. It has no accounts, no ads, no in-app purchases, no
 analytics and no tracking. The app does not collect, send, sell or share any personal information. Your settings and
@@ -59,11 +59,9 @@ and its provider under your account and settings; we never receive it.
 
 - **Vibration** — a short buzz on a six, a cut or a coin reaching home. You can switch it off in Settings
   (Vibration). It gives the app no access to any information.
-- **Network access (Android "INTERNET" permission)** — the Unity game engine adds this standard permission to the
-  app package automatically. It is a "normal" permission that Android grants without asking. The game does not use it
-  to send any personal information, and it has no online features, ads or analytics.
 
-The app asks for no other permissions. It does not request location, contacts, storage, camera or microphone access.
+The app asks for no other permissions. It has no internet permission, and it does not request location, contacts,
+storage, camera or microphone access.
 
 ## 6. Buttons that leave the app
 
@@ -73,6 +71,11 @@ Some buttons hand you over to other apps or services, and only when you tap them
   with whom to share it;
 - **PRIVACY POLICY** (OPEN FULL POLICY) opens this policy in your browser;
 - an email you send to us is sent by your own email app.
+
+**Rating card.** After you win a game, the app may ask Google Play to show its own rating card (at most once every 60
+days). The card is shown and handled entirely by Google Play: if you choose to leave a star rating or a review, you
+send it to Google Play under Google's terms and privacy policy, it is not sent to us through the app, and the app is
+not told whether or how you rated. You can close the card without rating.
 
 What happens there is covered by those services' own privacy policies (for example Google's or Apple's), not by this
 one. The app does not learn what you do there.
