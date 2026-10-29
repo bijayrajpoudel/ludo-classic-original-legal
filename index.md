@@ -1,4 +1,4 @@
-# Ludo Original Classic
+# Ludo Classic Original
 
 An offline Ludo board game for Android by Bijay Raj Poudel.
 

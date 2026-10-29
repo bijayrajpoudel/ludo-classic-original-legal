@@ -1,8 +1,8 @@
-# Privacy Policy — Ludo Original Classic
+# Privacy Policy — Ludo Classic Original
 
 _Effective date: 25 October 2026 · Applies to app version 1.2.15 and later_
 
-**In short:** Ludo Original Classic is an offline board game. It has no accounts, no ads, no in-app purchases, no
+**In short:** Ludo Classic Original is an offline board game. It has no accounts, no ads, no in-app purchases, no
 analytics and no tracking. The app does not collect, send, sell or share any personal information. Your settings and
 your saved game stay on your own device.
 
@@ -17,7 +17,7 @@ data we receive. In practice, the only personal data we can ever receive is what
 
 ## 2. What this policy covers
 
-This policy covers the Ludo Original Classic app on Android (package `com.bijayraj.ludoimperia`) and, if released,
+This policy covers the Ludo Classic Original app on Android (package `com.bijayraj.ludoimperia`) and, if released,
 on iOS. It does not cover app stores, your device's operating system, or websites the app opens (section 6), which
 have their own privacy policies.
 

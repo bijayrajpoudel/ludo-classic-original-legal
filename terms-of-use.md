@@ -1,14 +1,14 @@
-# Terms of Use — Ludo Original Classic
+# Terms of Use — Ludo Classic Original
 
 _Effective date: 19 October 2026 · Applies to app version 1.2.3 and later_
 
 These terms are an agreement between you and **Bijay Raj Poudel**, Nepal ("we", "us"), the maker and publisher of
-Ludo Original Classic ("the app"; Google Play developer name "Roulette Wheel"). By installing or using the app you
+Ludo Classic Original ("the app"; Google Play developer name "Roulette Wheel"). By installing or using the app you
 agree to these terms. If you do not agree, please do not use the app.
 
 ## 1. The app
 
-Ludo Original Classic is a free, offline version of the traditional board game Ludo for 2 to 4 players, played
+Ludo Classic Original is a free, offline version of the traditional board game Ludo for 2 to 4 players, played
 against the computer or with other people on the same device. It has no accounts, no online play, no ads and no
 in-app purchases.
 
@@ -40,7 +40,7 @@ offensive or that pretend to be someone else.
 ## 5. Intellectual property
 
 The app's code, game design, board designs (Classic, Classic 3D, Royal Gold, Himalayan), coin and dice designs,
-icons, app icon, sound effects, texts, the name "Ludo Original Classic" and its logo were created for this app and
+icons, app icon, sound effects, texts, the name "Ludo Classic Original" and its logo were created for this app and
 belong to Bijay Raj Poudel. All rights not expressly granted to you are reserved.
 
 Some parts belong to others and are used under their own licences:
@@ -54,7 +54,7 @@ Nothing in these terms limits your rights under those open licences.
 ## 6. Trademarks and independence
 
 "Ludo" is the name of a traditional board game played around the world for more than a century; it is used here only
-to describe the game. Ludo Original Classic is an independent game. It is **not affiliated with, endorsed by,
+to describe the game. Ludo Classic Original is an independent game. It is **not affiliated with, endorsed by,
 sponsored by or connected to any other Ludo app, game company, publisher or brand**. Any other product or company
 names belong to their respective owners. "Unity" is a trademark of Unity Technologies. Google Play is a trademark of
 Google LLC; App Store is a trademark of Apple Inc.
