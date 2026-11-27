@@ -136,6 +136,13 @@ portability, and not to be discriminated against for using these rights.
 - **The app itself:** your settings and games stay under your own control on your device (section 5). The usage
   statistics (section 3) are linked only to a random app-instance ID, not to your name or email; uninstalling the app or
   clearing its data starts a new ID. You may ask us to delete Firebase data or object to its use by writing to us.
+- **How to delete your data (Ludo Classic Original by Roulette Wheel):**
+  1. On your phone, delete your settings and saved game: Settings > RESET TO DEFAULTS in the game, or uninstall the app.
+  2. To have the usage statistics (section 3) deleted, email **poudelbijayraj500@gmail.com** with the subject
+     "Delete my Ludo data". We ask Google to delete the Firebase data of the app and reply within one month.
+  What is deleted: the app-instance ID and the usage statistics linked to it. Nothing is kept afterwards, except
+  totals that no longer point to anyone (for example "120 players in Nepal"). Firebase deletes the rest by itself after
+  2 months.
 - **Emails you sent us:** you may ask for a copy, a correction or deletion at any time by writing to
   poudelbijayraj500@gmail.com. We will reply within one month (GDPR / UK GDPR) or 45 days (CCPA/CPRA).
 - **California (CCPA/CPRA):** in the last 12 months we have not sold or "shared" (for cross-context behavioural
